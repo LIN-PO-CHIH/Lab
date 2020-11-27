@@ -1,0 +1,39 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(4): error C2143: 語法錯誤: 遺漏 ')' (在 '*' 之前)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(4): error C2143: 語法錯誤: 遺漏 '{' (在 '*' 之前)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(4): error C2059: 語法錯誤: ')'
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(9): error C2065: 'student': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(9): error C2146: 語法錯誤: 遺漏 ';' (在識別項 'stud' 之前)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(9): error C2065: 'stud': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(9): error C2109: 註標必須使用在陣列或指標類型上
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(9): error C2059: 語法錯誤: '{'
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(12): error C2065: 'student': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(12): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(12): warning C4552: '*': 未使用運算式結果
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(13): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(13): error C2065: 'stud': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(20): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(20): error C2223: '->num' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(20): error C2223: '->class' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(21): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(21): error C2223: '->name' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(21): error C2223: '->score' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(20): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\users\user\desktop\c_code\ch6_lab3\source\main.c(20): note: 預留位置及其參數需要 6 個 variadic 引數，但卻提供了 0 個
+  c:\users\user\desktop\c_code\ch6_lab3\source\main.c(20): note: 缺少 variadic 引數 1 (其為格式字串 '%6s' 所需)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(25): warning C4013: 'sub' 未定義; 假設 extern 傳回整數
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(25): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(29): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(29): error C2223: '->num' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(29): error C2223: '->class' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(30): error C2065: 'ps': 未宣告的識別項
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(30): error C2223: '->name' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(30): error C2223: '->score' 的左邊必須指向結構/等位
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(29): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\users\user\desktop\c_code\ch6_lab3\source\main.c(29): note: 預留位置及其參數需要 6 個 variadic 引數，但卻提供了 0 個
+  c:\users\user\desktop\c_code\ch6_lab3\source\main.c(29): note: 缺少 variadic 引數 1 (其為格式字串 '%6s' 所需)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(40): error C2143: 語法錯誤: 遺漏 ')' (在 '*' 之前)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(40): error C2143: 語法錯誤: 遺漏 '{' (在 '*' 之前)
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(40): error C2059: 語法錯誤: ')'
+c:\users\user\desktop\c_code\ch6_lab3\source\main.c(40): error C2054: 在 'p' 之後必須有 '('
